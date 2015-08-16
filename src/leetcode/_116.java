@@ -4,7 +4,7 @@ package leetcode;
  * Created by xianyu.hxy on 2015/8/5.
  */
 /*
-Populating Next Right Pointers in Each Node Total Accepted: 56588 Total Submissions: 155849 My Submissions Question Solution
+Populating Next Right Pointers in Each LinkedListNode Total Accepted: 56588 Total Submissions: 155849 My Submissions Question Solution
 Given a binary tree
 
     struct TreeLinkNode {

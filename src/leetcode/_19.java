@@ -4,7 +4,7 @@ package leetcode;
  * Created by xianyu.hxy on 2015/8/6.
  */
 /*
-Remove Nth Node From End of List Total Accepted: 64966 Total Submissions: 241501 My Submissions Question Solution
+Remove Nth LinkedListNode From End of List Total Accepted: 64966 Total Submissions: 241501 My Submissions Question Solution
 Given a linked list, remove the nth node from the end of list and return its head.
 
 For example,
